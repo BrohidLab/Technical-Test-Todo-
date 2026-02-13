@@ -3,25 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Todo App – Test Project</title>
-<style>
-  body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; padding: 2rem; background: #f4f6f8; color: #1a1a1a; }
-  h1 { color: #2c3e50; font-size: 2.2rem; margin-bottom: 0.5rem; }
-  h2 { color: #34495e; margin-top: 2rem; margin-bottom: 0.5rem; font-size: 1.5rem; border-bottom: 2px solid #ecf0f1; padding-bottom: 0.3rem; }
-  h3 { color: #34495e; margin-top: 1.5rem; margin-bottom: 0.3rem; }
-  p { margin-bottom: 1rem; }
-  pre { background: #2d2d2d; color: #f8f8f2; padding: 1rem; border-radius: 6px; overflow-x: auto; }
-  code { background: #ecf0f1; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
-  ul, ol { padding-left: 2rem; margin-bottom: 1rem; }
-  li { margin-bottom: 0.5rem; }
-  hr { border: none; border-top: 1px solid #bdc3c7; margin: 2rem 0; }
-  blockquote { border-left: 4px solid #3498db; padding-left: 1rem; color: #555; font-style: italic; background: #ecf0f1; padding: 1rem; border-radius: 4px; }
-  .badge { display: inline-block; padding: 0.25rem 0.6rem; font-size: 0.8rem; font-weight: bold; color: white; background: #3498db; border-radius: 4px; margin-right: 0.5rem; text-decoration: none; }
-  .badge.node { background: #3c873a; }
-  .badge.nest { background: #e0234e; }
-  .badge.next { background: #000000; }
-  img.screenshot { max-width: 100%; border-radius: 6px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); margin-top: 1rem; }
-</style>
+
 </head>
 <body>
 
